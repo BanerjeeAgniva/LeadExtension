@@ -1,7 +1,20 @@
-To use the extension -> 
-Download the Repository in your local 
-Go to chrome://extensions/  -> Turn on developer tools -> Load unpacked and then upload the downloaded folder 
-Extension is ready to use! 
+# Chrome Extension Setup
+
+Follow these steps to install the extension locally:
+
+1. **Download the Repository**
+   - Clone or download this repository to your local machine.
+
+2. **Enable Developer Mode in Chrome**
+   - Open Chrome and go to `chrome://extensions/`.
+   - Toggle the **Developer mode** switch on (top-right corner).
+
+3. **Load Unpacked Extension**
+   - Click on the **Load unpacked** button.
+   - Select the folder where you downloaded the repository.
+
+4. **Done!**
+   - The extension is now ready to use.
 
 
 
